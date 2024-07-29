@@ -1,0 +1,14 @@
+{
+  "name": "day-3-express-practice",
+  "version": "1.0.0",
+  "description": "Practice express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toan Dang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
